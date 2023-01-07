@@ -6,7 +6,7 @@ public class GameRunner {
 	private GamingConsole game;
 		
 	public GameRunner(GamingConsole game) {
-		System.out.println("Using Constructor");
+		//System.out.println("Using Constructor");
 		this.game = game;
 	}	
 

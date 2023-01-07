@@ -16,9 +16,9 @@ public class PlayGameApplication {
 		
 		//MarioGame game = new MarioGame();
 		
-		//SuperContraGame game = new SuperContraGame();
+		SuperContraGame game = new SuperContraGame();
 		
-		PacManGame game = new PacManGame();
+		//PacManGame game = new PacManGame();
 		
 		GameRunner runner = new GameRunner(game);
 		runner.runGame();
